@@ -1,0 +1,191 @@
+---
+title: "Descuento simple y CETES"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+- Darina Calderón Rivera
+- Juan Diego Hernández Zavala
+- Mauricia Orozco Bribiesca
+- Solanje Aide Salgado Méndez
+- Julio César López Becerra
+
+# Índice
+
+* [Descuento simple](#descuento-simple)
+1. [Clasificación del descuento simple](#clasificación-del-descuento-simple)
+2. [Características de la operación](#características-de-la-operación)
+3. [¿Qué es el descuento simple y compuesto?](#qué-es-el-descuento-simple-y-compuesto)
+* [¿Qué son los CETES?](#qué-son-los-cetes)
+1. [Características](#características)
+2. [Comparación](#comparación)
+3. [Cómo invertir en CETES](#cómo-invertir-en-cetes)
+4. [Función](#función)
+5. [Otros instrumentos financieros](#otros-instrumentos-financieros)
+6. [Ventajas de los CETES](#ventajas-de-los-cetes)
+7. [Desventajas de los CETES](#desventajas-de-los-cetes)
+
+
+# Descuento simple
+
+En algunas operaciones de crédito bancarias, se acostumbra cobrar el interés en el momento mismo en que se efectúa el préstamo. Cobrar el interés por adelantado,en lugar de cobrarlo hasta la fecha de vencimiento,se llama descuento simple,descuento bancario o simplemente descuento. Al interés cobrado anticipadamente se le llama “descuento" y la cantidad de dinero que recibe el solicitante del préstamo,una vez descontado el interés,se llama valor efectivo.
+
+## Clasificación del descuento simple:
+
++ Descuento Racional
++ Descuento Bancario 
++ Descuento por Pronto Pago 
++ Descuento Único, en Serie, en Cadena o Sucesivo. 
+
+Fórmula: 
+
+$D = Fdt$
+
+D = Descuento o interés cobrado anticipadamente
+
+F = Monto por pagar
+
+d = Tasa de descuento
+
+t = tiempo
+
+Como el valor efectivo (VE) es el monto por pagar menos el descuento, entonces:
+
+$VE= F- D$
+
+## Características de la operación:
+
+Los intereses no son productivos, lo que significa que:
+A medida que se generan no se restan del capital de partida para producir (y restar) nuevos intereses en el futuro y, por tanto
+Los intereses de cualquier período siempre los genera el mismo capital, al tanto del interés vigente en dicho período.
+En una operación de descuento el punto de partida es un capital futuro conocido (Cn) cuyo vencimiento se quiere adelantar. Deberemos conocer las condiciones en las que se quiere hacer esta anticipación: duración de la operación (tiempo que se anticipa el capital futuro) y tanto de interés aplicado.
+El capital que resulte de la operación de descuento (capital actual o presente –C0–) será de cuantía menor, siendo la diferencia entre ambos capitales los intereses que el capital futuro deja de tener por anticipar su vencimiento. En definitiva, si trasladar un capital desde el presente al futuro implica añadir intereses, hacer la operación inversa, anticipar su vencimiento, supondrá la minoración de esa misma carga financiera.
+
+## ¿Qué es el descuento simple y compuesto?
+
+El descuento simple comercial solo se usa a corto plazo, porque de lo contrario ese descuento puede llegar a anularse, lo que constituye un absurdo. El descuento compuesto siempre se usa a largo plazo, su valor actual nunca valdrá $0 por más que "n" tome valores grande
+
+# ¿Qué son los CETES?
+
+Las siglas significan Certificados de la Tesorería de la Federación. Son el instrumento de deuda bursátil más antiguo emitido por el Gobierno Federal, en 1978. 
+
+Entre paréntesis, un instrumento de deuda es un instrumento de financiación en el que la empresa que lo emite busca financiación y la persona que compra el instrumento de deuda busca recuperar los fondos y los intereses devengados. En pocas palabras, son títulos que amparan un crédito donde los inversionistas buscan hacer crecer su dinero. 
+
+Los títulos de crédito son documentos donde una persona física o moral se compromete a realizar un pago de dinero a un acreedor en una determinada fecha. Representan el derecho del titular a recibir una determinada cantidad u otro tipo de beneficio.
+
+Estos títulos pertenecen a la familia de los bonos cupón cero, esto es, aquellos valores que se venden por menos del valor nominal y no generan intereses, pero pagan y obtienen un rendimiento sobre su valor real cuando vencen.
+
+Los CETES son una herramienta financiera empleada por el gobierno para recaudar fondos mediante la emisión de obligaciones de deuda en forma de bonos. Según el perfil de Banxico, los bonos cotizan por debajo de su valor. De esta manera, el país puede lograr una capitalización rápidamente, mientras que los inversores pueden obtener ganancias a la par.
+
+Las CETES son una forma en la que los ciudadanos prestan dinero al Gobierno Mexicano a una tasa de interés específica que se cobrará en un plazo corto o mediano. 
+
+Banxico explica que los Cetes tienen un valor nominal de 10 pesos. Según la tasa disponible al momento de la transacción, podrían venderse por 9.88 o 9.90 pesos. En esa simulación,  luego del período de inversión elegido, los acreedores recibirán una devolución total de 10 pesos, que constituirá su ganancia.
+
+La Secretaría de Hacienda y Crédito Público (SHCP) es la agencia que supervisa y regula su venta y administración a través del Banco de México, lo que les permite no pagar comisiones, penalidades o tarifas de transacción.
+
+## Características 
+
+**- Rendimiento fijo:** significa que asegura en un determinado periodo de tiempo un valor, así el inversionista sabe cuándo recibirá al final del plazo de la inversión. Son de bajo riesgo.
+
+**- Liquidez:** pueden ser vendidos o comprados en cualquier momento en el mercado secundario con un posible precio diferente al que fueron originalmente adquiridos.
+Denominación mínima: momento mínimo para comenzar es de 100 pesos mexicanos. 
+
+**- Descuento:** El precio se determina mediante una resta del rendimiento esperado al valor nominal del título. O sea compran los Cetes por debajo del valor nominal, y reciben la diferencia como rendimiento al final del plazo.
+
+**- Plazo:** Se admite cualquier plazo siempre y cuando el vencimiento caiga en jueves, generalmente se colocan plazos de 28 y 91 días, seis meses y un año.
+Colocación primaria: Los títulos se adquieren mediante subastas, los participantes exponen sus posturas sobre el monto que desean adquirir y la tasa de descuento que desean pagar. Por el Banco de México
+
+**- Mercado secundario:** se puede comprar y vender en cualquier día hábil. Compra-venta sobre títulos que ya se encuentran en circulación. Se puede realizar ya sea cotizando su precio, tasa de descuento o su tasa de rendimiento.
+Identificación de los títulos: Los Cetes emitidos con anterioridad y también los recientes pueden tener la misma clave de identificación si vencen en la misma fecha. La clave está compuesta por ocho caracteres, los dos primeros son BI,y los 6 restantes indican la fecha de vencimiento con el orden de año, mes, día.
+
+**- Régimen fiscal:** Se deben notificar en la declaración anual, son ingresos gravables. La retención se hace automática al capital invertido, actualmente el porcentaje de retención es de 0.15% anual, esto es solo de manera provisional, ya que aún tienes que presentar la declaración anual para pagar el ISR sobre el interés real obtenido.
+
+## Comparación
+
+**- Cuentas de ahorro:** es una opción de bajo riesgo con rendimientos moderados, sujetos a las tasas de interés establecidas por los bancos que generalmente son menores a las que ofrece Cetes.
+
+**- Pagarés bancarios:** Son instrumentos de deuda emitidos por bancos con rendimiento fijo en un plazo determinado, con condiciones específicas del mercado y la institución financiera.
+
+**- Bonos corporativos:** Instrumentos de deuda emitido por empresas  con remiendo fijo o variable, ya que están sujetos a riesgo crediticio de la empresa emisora, conlleva un riesgo más que es compensado por rendimientos más altos.
+
+**- Acciones:** Los inversionistas adquieren una partición en el capital de una empresa, las acciones están sujetos a volatilidad y riesgo de mercado, generando un mayor grado de incertidumbre pero ofrecen crecimiento y ganancias a largo plazo que pueden ser mayores a Cetes.
+
+Formalmente el emisor es la secretaría de Hacienda y Crédito público del gobierno Federal. teniendo como representante al Banco de méxico
+La ganancia del inversionista es la diferencia de lo que paga por el título y el precio al que lo vende al vencimiento  al mismo emisor.
+Los plazos mínimos en CETES son de 7 días, mientras que el máximo es de 728 días.
+A diferencia de las transacciones con bancos comerciales y casas de bolsa, en las CETES, la tasa de rendimiento depende de lo que los inversionistas decidan ofrecer.
+
+## Cómo invertir en CETES
+
+Para invertir en Cetes existe una plataforma que te permite realizar esta inversión online: es Cetesdirecto.com.
+
+Pasos para comenzar a invertir en CETES:
+
+1. Iniciar una sesión con usuario y contraseña
+
+2. Seleccionar la opción “comprar”
+
+3. Elegir el plazo a invertir
+
+4. Ingresar el capital que deseas invertir
+ 
+5. Seleccionar la forma de pago entre inversión líquida y cargo a la cuenta bancaria
+
+6. Evaluar la opción que al término del plazo se re-invierta el dinero de manera automática en cetes 28 días
+
+
+## Función
+
+Los CETES tienen diversas funciones tanto desde el punto de vista del consumidor como gubernamental:
+
+Desde el punto de vista del consumidor:
+
+**- Inversión segura:** Brindan a los inversionistas una inversión segura y de bajo riesgo. 
+
+**- Ingresos pasivos:** Al tener una tasa fija, los CETES pueden ser una fuente de ingresos estable y predecible.
+
+**- Diversificación de cartera:** Combinar CETES con otros activos financieros puede ayudar a mitigar riesgos.
+
+**- Liquidez:** Se pueden comprar y vender en el mercado secundario antes de su vencimiento. Esto facilita acceder al dinero en cualquier momento.
+
+Desde el punto de vista gubernamental:
+
+**- Obtención de financiamiento:** Obtener financiamiento para cubrir sus necesidades de gasto.
+
+**- Control de la inflación:** El Banco de México utiliza CETES como una herramienta para controlar la inflación y estabilizar la economía. 
+
+**- Establecimiento de tasas de referencia:** Sirven como una tasa base sobre la cual se calculan las tasas de interés de préstamos, bonos corporativos y otros productos financieros.
+
+## Otros instrumentos financieros
+
+Existen otros instrumentos financieros. Siendo los más populares en México:
+
+**- Acciones:** representan una participación en la propiedad de una empresa. Quienes poseen acciones tienen derechos sobre las utilidades y, además, pueden obtener mayores ingresos de una revaloración.
+
+**- Bonos:** Los bonos son valores de renta fija emitidos por empresas y gobiernos. Los inversionistas reciben pagos de interés periódicos y el valor nominal del bono al vencimiento.
+
+**- Fondos de inversión:** Varios inversionistas compran una cartera diversificada de activos financieros, como acciones, bonos, y otros instrumentos. Los inversionistas poseen participaciones en el fondo en lugar de activos individuales.
+
+**- Fibras (Fideicomisos de Inversión en Bienes Raíces):** Permiten participar en el mercado inmobiliario sin tener propiedades. Es similar a comprar acciones, pero haciéndote acreedor a un porcentaje de una propiedad, en vez de una empresa.
+
+## Ventajas de los CETES:
+
+**- Seguridad:** son emitidos por el gobierno federal, lo que los convierte en uno de los instrumentos de inversión más seguros del país.
+
+**- Liquidez:** puedes comprar y venderlos fácilmente en el mercado secundario antes de su vencimiento. 
+
+**- Transparencia:** La información sobre sus tasas de interés, plazos y condiciones, está disponible siempre.
+
+**- Accesibilidad:** puede invertirse fácilmente ya que no requieren una inversión inicial significativa.
+
+## Desventajas de los CETES:
+
+**- Rendimiento Bajo:** su rendimiento suele ser más bajo en comparación con otros instrumentos de inversión más riesgosos.
+
+**- Impuestos:** Las ganancias están sujetas a impuestos, lo que reduce aún más su rendimiento.
+
+**- Inflación:** Existe el riesgo de que la inflación supere la tasa fija acordada previamente. 
+
